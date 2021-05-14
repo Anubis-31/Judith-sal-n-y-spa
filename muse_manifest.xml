@@ -1,0 +1,376 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Judith salón &amp; spa.com" resolutions="1x" timestamp="1620956998628">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="93252662" ref="index:servicios:contactanos:nosotros:clientes:promociones"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="371910942" ref="index:servicios:contactanos:nosotros:clientes:promociones"/>
+    <file name="index.css" crc="3821742438" ref="index"/>
+    <file name="nomq_index.css" crc="116255270" ref="index"/>
+    <file name="servicios.css" crc="4149642293" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="4018225620" ref="servicios"/>
+    <file name="contactanos.css" crc="223798781" ref="contactanos"/>
+    <file name="nomq_contactanos.css" crc="514629597" ref="contactanos"/>
+    <file name="nosotros.css" crc="379367152" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="3981210947" ref="nosotros"/>
+    <file name="clientes.css" crc="4229865352" ref="clientes"/>
+    <file name="nomq_clientes.css" crc="169281428" ref="clientes"/>
+    <file name="promociones.css" crc="82732595" ref="promociones"/>
+    <file name="nomq_promociones.css" crc="116076687" ref="promociones"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:nosotros:servicios:promociones:clientes"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="webpro.js" crc="242022427" ref="servicios:clientes:contactanos"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="servicios:clientes"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="servicios:clientes"/>
+    <file name="touchswipe.js" crc="4066113679" ref="servicios:clientes"/>
+    <file name="form_check.php" crc="147359589" ref="contactanos"/>
+    <file name="form_throttle.php" crc="93986428" ref="contactanos"/>
+    <file name="form_process.php" crc="3851993751" ref="contactanos"/>
+    <file name="form-u3000.php" crc="3827441062" ref="contactanos"/>
+  </folder>
+  <folder name="images">
+    <file name="logoexportado.png" crc="35298661" seo="true" ref="index:nosotros:servicios:promociones:clientes:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u344.png" crc="4023666693" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u344-a.png" crc="4270837372" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u335.png" crc="3758811890" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u335-a.png" crc="227454593" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u382.png" crc="3820395464" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u382-a.png" crc="3819513580" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u403.png" crc="348287045" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u403-a.png" crc="290440732" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u423.png" crc="4055121904" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u423-a.png" crc="3895143625" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u445.png" crc="308606895" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="u445-a.png" crc="168010534" ref="index:nosotros:servicios:promociones:clientes:contactanos"/>
+    <file name="fondoexportado.jpg" crc="4116438248" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u329-4.png" crc="529596057" ref="index"/>
+    <file name="u500-4.png" crc="3889025671" ref="index"/>
+    <file name="art, background, beautiful, beauty, cloth, coloful, design, fabric, iphone, pattern, pink, rose, satin, silk, style, textile, texture, wallpapers, we heart it, pink background, pink satin, pastel color, pink silk, .jpg" crc="118062281" ref="index:servicios">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="copia de diseño sin título.jpg" crc="4244496668" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 4.png" crc="3760931706" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20200514-wa0079.jpg" crc="3955621420" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 5.png" crc="157081531" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red sushi logo (6).jpg" crc="320125090" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 3.png" crc="4181746219" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3629-4.png" crc="3856377896" ref="index"/>
+    <file name="u3634-4.png" crc="120286562" ref="index"/>
+    <file name="u3643-4.png" crc="378087527" ref="index"/>
+    <file name="u1322-4.png" crc="160401118" ref="index"/>
+    <file name="recurso 2.png" crc="4109381428" seo="true" ref="index:nosotros:servicios:promociones:clientes:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="recurso 32.png" crc="279463990" seo="true" ref="index:nosotros:servicios:promociones:clientes:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="recurso 1.png" crc="165118998" seo="true" ref="index:nosotros:servicios:promociones:clientes:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u329-42.png" crc="4001784879" ref="index"/>
+    <file name="u500-42.png" crc="210940609" ref="index"/>
+    <file name="copia de diseño sin título-u1275-fr.jpg" crc="3913169119" ref="index"/>
+    <file name="recurso 4-u1275-r-fr.png" crc="133665356" ref="index"/>
+    <file name="img-20200514-wa0079-u1288-fr.jpg" crc="3836265130" ref="index"/>
+    <file name="recurso 5-u1288-r-fr.png" crc="317259678" ref="index"/>
+    <file name="red sushi logo (6)-u1297-fr.jpg" crc="4015078114" ref="index"/>
+    <file name="recurso 3-u1297-r-fr.png" crc="412623099" ref="index"/>
+    <file name="u3629-42.png" crc="4088898616" ref="index"/>
+    <file name="u3634-42.png" crc="3868412407" ref="index"/>
+    <file name="u3643-42.png" crc="311974945" ref="index"/>
+    <file name="u1322-42.png" crc="273285320" ref="index"/>
+    <file name="u329-43.png" crc="212347719" ref="index"/>
+    <file name="u500-43.png" crc="457134169" ref="index"/>
+    <file name="art, background, beautiful, beauty, cloth, coloful, design, fabric, iphone, pattern, pink, rose, satin, silk, style, textile, texture, wallpapers, we heart it, pink background, pink satin, pastel color, pink silk, -u1249-fr.jpg" crc="3843684065" ref="index:servicios"/>
+    <file name="copia de diseño sin título-u1275-fr2.jpg" crc="3989568190" ref="index"/>
+    <file name="recurso 4-u1275-r-fr2.png" crc="3831553870" ref="index"/>
+    <file name="img-20200514-wa0079-u1288-fr2.jpg" crc="265025671" ref="index"/>
+    <file name="recurso 5-u1288-r-fr2.png" crc="4258554988" ref="index"/>
+    <file name="red sushi logo (6)-u1297-fr2.jpg" crc="3886593813" ref="index"/>
+    <file name="recurso 3-u1297-r-fr2.png" crc="418699786" ref="index"/>
+    <file name="u3629-43.png" crc="3767556043" ref="index"/>
+    <file name="u3634-43.png" crc="304371255" ref="index"/>
+    <file name="u3643-43.png" crc="135359684" ref="index"/>
+    <file name="u1322-43.png" crc="344178339" ref="index"/>
+    <file name="arredamento per parrucchieri e saloni di bellezza.jpg" crc="4048795739" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u1424-4.png" crc="4157291936" ref="nosotros"/>
+    <file name="u1555-4.png" crc="3832993618" ref="nosotros"/>
+    <file name="u1569-4.png" crc="3993941645" ref="nosotros"/>
+    <file name="u1550-4.png" crc="3860768570" ref="nosotros"/>
+    <file name="u1564-4.png" crc="236295608" ref="nosotros"/>
+    <file name="u1578-4.png" crc="495392508" ref="nosotros"/>
+    <file name="chica counter.png" crc="4119966112" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u3769.png" crc="3893576799" ref="nosotros"/>
+    <file name="u3769-r.png" crc="3823612845" ref="nosotros"/>
+    <file name="u1424-42.png" crc="240692917" ref="nosotros"/>
+    <file name="u1555-42.png" crc="42308564" ref="nosotros"/>
+    <file name="u1569-42.png" crc="158197419" ref="nosotros"/>
+    <file name="chica counter375x251.png" crc="190910382" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u37692.png" crc="518211630" ref="nosotros"/>
+    <file name="u3769-r2.png" crc="3793230432" ref="nosotros"/>
+    <file name="arredamento per parrucchieri e saloni di bellezza-u1402-fr.jpg" crc="259374321" ref="nosotros"/>
+    <file name="u1424-43.png" crc="503948389" ref="nosotros"/>
+    <file name="u1555-43.png" crc="4120889846" ref="nosotros"/>
+    <file name="u1569-43.png" crc="4053990939" ref="nosotros"/>
+    <file name="chica counter224x150.png" crc="99920260" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u37693.png" crc="3853465383" ref="nosotros"/>
+    <file name="u3769-r3.png" crc="4007747619" ref="nosotros"/>
+    <file name="259779-p4jts5-813-crop-u3131.jpg" crc="3761885956" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="15046274137231-crop-u3122.jpg" crc="133966241" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen pelu-crop-u3127.jpg" crc="487017523" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pelu 5-crop-u3373.jpg" crc="3966306059" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="2018-ouinovias-concorazon-baja-3-crop-u3440.jpg" crc="192314216" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen detras del lavadero-crop-u3497.jpg" crc="4227420887" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="portada 4-crop-u3554.jpg" crc="462704149" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pelu 2.jpg" crc="4240966697" seo="true" ref="servicios:clientes">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="259779-p4jts5-813-crop-u31312.jpg" crc="4224620197" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="15046274137231-crop-u31222.jpg" crc="3814711109" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen pelu-crop-u31272.jpg" crc="3827977063" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pelu 5-crop-u33732.jpg" crc="151772553" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="2018-ouinovias-concorazon-baja-3386x256.jpg" crc="60753534" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen detras del lavadero-crop-u34972.jpg" crc="311949461" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="portada 4-crop-u35542.jpg" crc="26141606" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pelu 2386x256.jpg" crc="339148981" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="259779-p4jts5-813-crop-u31313.jpg" crc="61305345" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="15046274137231-crop-u31223.jpg" crc="9243477" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen pelu-crop-u31273.jpg" crc="291588268" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pelu 5-crop-u33733.jpg" crc="249330460" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="2018-ouinovias-concorazon-baja-3-crop-u34402.jpg" crc="162385340" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen detras del lavadero-crop-u34973.jpg" crc="4254840819" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="portada 4-crop-u35543.jpg" crc="249741184" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pelu 2428x228.jpg" crc="89170594" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fond mega 80 (igual gigantografia).png" crc="122542846" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="recurso 52.png" crc="318276933" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="letrero de la puerta posterior (2).png" crc="249653440" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="recurso 42.png" crc="494393166" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="mami bonita png.png" crc="4285954601" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="recurso 33.png" crc="4056454868" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="maquillaje profesional.jpg" crc="189572313" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="recurso 22.png" crc="228111364" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="celebra su día (7).png" crc="380446978" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="recurso 12.png" crc="497327094" ref="promociones">
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="fond mega 80 (igual gigantografia)-u2384-fr.png" crc="282298022" ref="promociones"/>
+    <file name="recurso 5-u2384-r-fr.png" crc="3959717169" ref="promociones"/>
+    <file name="letrero de la puerta posterior (2)-u2395-fr.png" crc="194819532" ref="promociones"/>
+    <file name="mami bonita png-u2406-fr.png" crc="535954748" ref="promociones"/>
+    <file name="maquillaje profesional-u3676-fr.jpg" crc="228329110" ref="promociones"/>
+    <file name="celebra su día (7)-u3701-fr.png" crc="536582341" ref="promociones"/>
+    <file name="fond mega 80 (igual gigantografia)-u2384-fr2.png" crc="54677529" ref="promociones"/>
+    <file name="letrero de la puerta posterior (2)-u2395-fr2.png" crc="3780611881" ref="promociones"/>
+    <file name="mami bonita png-u2406-fr2.png" crc="4021395943" ref="promociones"/>
+    <file name="maquillaje profesional-u3676-fr2.jpg" crc="3967071731" ref="promociones"/>
+    <file name="celebra su día (7)-u3701-fr2.png" crc="439541355" ref="promociones"/>
+    <file name="kathy.jpg" crc="188683158" ref="clientes">
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+    </file>
+    <file name="adobestock_82016038-620x413.jpg" crc="4111402879" ref="clientes">
+      <caption webpage="clientes" alt=""/>
+    </file>
+    <file name="mujer 5.jpg" crc="511912785" ref="clientes">
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+    </file>
+    <file name="mujer 3.jpg" crc="525227063" ref="clientes">
+      <caption webpage="clientes" alt=""/>
+      <caption webpage="clientes" alt=""/>
+    </file>
+    <file name="u2730-7.png" crc="489755953" ref="clientes"/>
+    <file name="u2732-7.png" crc="37995916" ref="clientes"/>
+    <file name="u2734-7.png" crc="11297353" ref="clientes"/>
+    <file name="u2736-7.png" crc="62294112" ref="clientes"/>
+    <file name="u2908-6.png" crc="371091688" ref="clientes"/>
+    <file name="u2730-72.png" crc="274863139" ref="clientes"/>
+    <file name="u2732-72.png" crc="3762926896" ref="clientes"/>
+    <file name="u2734-72.png" crc="353240985" ref="clientes"/>
+    <file name="u2736-72.png" crc="427108196" ref="clientes"/>
+    <file name="u2908-62.png" crc="4257786862" ref="clientes"/>
+    <file name="kathy-u2726-fr.jpg" crc="442097014" ref="clientes"/>
+    <file name="adobestock_82016038-620x413-u2725-fr.jpg" crc="466164024" ref="clientes"/>
+    <file name="pelu 2-u2727-fr.jpg" crc="4236689038" ref="clientes"/>
+    <file name="mujer 5-u2724-fr.jpg" crc="323306445" ref="clientes"/>
+    <file name="mujer 3-u2889-fr.jpg" crc="533061810" ref="clientes"/>
+    <file name="u2730-73.png" crc="3819917699" ref="clientes"/>
+    <file name="u2732-73.png" crc="4288537308" ref="clientes"/>
+    <file name="u2734-73.png" crc="3843969995" ref="clientes"/>
+    <file name="u2736-73.png" crc="246152059" ref="clientes"/>
+    <file name="u2908-63.png" crc="372330975" ref="clientes"/>
+  </folder>
+  <file name="index.html" crc="4128603091" seo="true" mt="1618511108713" redirect="true"/>
+  <file name="nosotros.html" crc="181983216" seo="true" mt="1620934449849" redirect="true"/>
+  <file name="servicios.html" crc="3886312125" seo="true" mt="1618612414702" redirect="true"/>
+  <file name="promociones.html" crc="510021987" seo="true" mt="1618612565220" redirect="true"/>
+  <file name="clientes.html" crc="192727391" seo="true" mt="1618612583701" redirect="true"/>
+  <file name="contactanos.html" crc="3858116891" seo="true" mt="1618612702544" redirect="true"/>
+</manifest>
